@@ -1,2 +1,1 @@
-# backstage-plugin
-Dynatrace Backstage Plugin
+This is bug bounty Hackerone test
